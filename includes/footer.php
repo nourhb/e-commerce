@@ -69,6 +69,29 @@
 				</ul>
 			</div>
 
+			<div class="footer-nav__col footer-nav__col--lookbook">
+				<div class="footer-nav__heading">Lookbook</div>
+				<ul class="footer-nav__list">
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Latest posts</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Men&apos;s lookbook</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Women&apos;s lookbook</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Lookbooks RSS feed</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">View your lookbook</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Delete your lookbook</a>
+					</li>
+				</ul>
+			</div>
 
 			<div class="footer-nav__col footer-nav__col--contacts">
 				<div class="footer-nav__heading">Contact details</div>
@@ -82,14 +105,14 @@
 				</div>
 				<div class="email">
 					Email:
-					<a href="mailto:support@yourwebsite.com" class="email__addr">support@yourwebsite.com</a>
+					<a href="mailto:nourhb58@gmail.com" class="email__addr">nourhb58@gmail.com</a>
 				</div>
 			</div>
 
 		</div>
 	</div>
 
-	<!-- <div class="banners">
+	<div class="banners">
 		<div class="container clearfix">
 
 			<div class="banner-award">
@@ -112,21 +135,21 @@
 			</div>
 
 		</div>
-	</div> -->
+	</div>
 
 	<div class="page-footer__subline">
 		<div class="container clearfix">
 
 			<div class="copyright">
-				&copy; 2024 Brand Marketing&trade;
+				&copy; 2016 Brand Marketing&trade;
 			</div>
 
 			<div class="developer">
-				Dev by iTeam Team
+				Dev by Loremipsum.com
 			</div>
 
 			<div class="designby">
-				Design by iTeam Team
+				Design by RobbyDesigns.com
 			</div>
 		</div>
 	</div>
